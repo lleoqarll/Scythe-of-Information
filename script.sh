@@ -1,7 +1,7 @@
 #!/bin/bash
-#sublist3r -d jotform.com -o cikti10.txt
-#subfinder -d jotform.com >> cikti10.txt
-#./assetfinder -subs-only jotform.com >> cikti10.txt
+#sublist3r -d [domain.com] -o cikti10.txt
+#subfinder -d [domain.com] >> cikti10.txt
+#./assetfinder -subs-only [domain.com] >> cikti10.txt
 #cat cikti10.txt | sort -u > ciktison.txt
 #cat ciktison.txt | tr "<BR>" "\n" >> ciktison1.txt
 #cat ciktison1.txt | sort -u >> ciktison2.txt
